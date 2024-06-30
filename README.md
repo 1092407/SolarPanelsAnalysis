@@ -3,7 +3,7 @@ In questa repository sono contenuti i dataset ed il codice utlizzato per il lavo
 Di seguito si elencano i contenuti delle varie cartelle al fine di indicare come poter eventualmente testare il codice sulla propria macchina.
 
 # Dataset
-In questa cartella sono contenuti tutti i datset utilizzati
+In questa cartella sono contenuti tutti i dataset utilizzati
 
 # Notebook Python
 In questa cartella sono contenuti i notebook prodotti. 
