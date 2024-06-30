@@ -10,8 +10,8 @@ In questa cartella sono contenuti i notebook prodotti.
 Sono stati scritti tramite Google Colab. 
 I dataset sono stati caricati nel Drive Google personale e poi è stato preso il riferimento.
 Scaricando i dataset, caricandoli nel proprio drive personale e cambiando i link di riferimento è possibile eseguire il codice tramite Colab con il proprio account Google.
-In alternativa si possono scaricare sulla prorpia macchina i singooli dataset e cambiare le linee di codice dove si leggono per esegire tutto sulla propria macchina.
+In alternativa si possono scaricare sulla propria macchina i singoli dataset e cambiare le linee di codice dove si leggono i dati per esegire tutto sulla propria macchina.
 
 # Cartella Tableau
-Si trovano i file con le analisi effettuati tramite tableau. 
+Si trovano i file con le analisi effettuate tramite tableau. 
 Basta scaricare i dataset utilizzati e aprire questi file sulla propria macchina tramite Tableau desktop.
