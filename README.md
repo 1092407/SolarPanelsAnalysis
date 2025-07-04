@@ -5,7 +5,7 @@ Di seguito si elencano i contenuti delle varie cartelle al fine di indicare come
 # Dataset
 In questa cartella sono contenuti tutti i dataset utilizzati
 
-# Notebook Python
+# Notebook Python "solar panel analysis"
 In questa cartella sono contenuti i notebook prodotti. 
 Sono stati scritti tramite Google Colab. 
 I dataset sono stati caricati nel Drive Google personale e poi è stato preso il riferimento.
